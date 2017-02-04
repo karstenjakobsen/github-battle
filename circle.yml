@@ -5,4 +5,4 @@ deployment:
   production:
     branch: master
     commands:
-      - webpack -p && aws s3 sync dist/ s3://githubbattle.dk.s3-website.eu-central-1.amazonaws.com --delete
+      - webpack -p && aws s3 sync dist/ http://githubbattle-dk.s3-website.eu-central-1.amazonaws.com --delete
