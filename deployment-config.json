@@ -1,0 +1,11 @@
+{
+    "type": "sftp",
+    "host": "4.nodes.evercall.dk",
+    "username": "kkkj",
+    "sshKeyFile": "C:\\Users\\KarstenKalleKaj\\Dropbox\\Public Keys\\kkkj-rsa.openssh",
+    "passphrase": "LalleEver04.",
+    "port": 222,
+    "remotePath": "",
+    "uploadOnSave": true,
+    "remotePath": "github-battle"
+}
